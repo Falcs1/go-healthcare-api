@@ -1,4 +1,4 @@
-# go-healthcare-api
+# Go-healthcare-api
 
 A simple Go-based API for managing patient data.
 
